@@ -1,0 +1,8 @@
+complete <tab> options in commandline in a sane way.
+Usage: :h if_<c-n> to get a list to select one of the matches found by <c-d>
+
+related work:
+https://github.com/emma-dev/dragee.vim/blob/master/core/command_line.complete.vim
+There was another plugin I forgott the name of which did almost the same ..
+
+TODO: fix escaping ..
